@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    Welcome to Hongbusi website.
     <router-view/>
 
     <Footer />
@@ -16,3 +15,9 @@ export default {
   }
 }
 </script>
+
+<style lang="less" scoped>
+  #app {
+    min-width: 1180px;
+  }
+</style>

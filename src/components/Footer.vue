@@ -9,7 +9,8 @@
 <style scoped lang="less">
 .footer {
   padding: 20px 0;
-  background: #232426;
+  background: #000;
   text-align: center;
+  transition: all .3s ease;
 }
 </style>

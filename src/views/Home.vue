@@ -25,6 +25,10 @@ export default {
     background-attachment: fixed;
     background-position: center;
 
+    @media screen and (max-width: 1180px) {
+      background-attachment: scroll;
+    }
+
     &__des {
       position: absolute;
       top: 40%;

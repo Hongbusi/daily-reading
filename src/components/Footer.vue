@@ -1,7 +1,7 @@
 <template>
   <div class="footer">
     <div class="container">
-      <a href="http://beian.miit.gov.cn" target="_blank">浙ICP备2020035758号</a>
+      <a href="http://beian.miit.gov.cn" target="_blank">浙ICP备2020035758号-1</a>
     </div>
   </div>
 </template>

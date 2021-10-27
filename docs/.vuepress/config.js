@@ -40,6 +40,7 @@ module.exports = {
     docsBranch: 'master',
     logo: '/images/logo.png',
     sidebarDepth: 0,
+    navbar: [{ text: '留言', link: 'https://github.com/Hongbusi/daily-reading/issues' }],
     sidebar: [
       { text: '介绍', link: '/' },
       { text: '2021 年 10 月', link: '/2021/10.md'},

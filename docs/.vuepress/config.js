@@ -1,6 +1,5 @@
 module.exports = {
   base: '/daily-reading/',
-  dest: 'dist',
   title: '每日阅读',
   description: '桃李不言，下自成蹊！',
   head: [

@@ -1,7 +1,6 @@
 module.exports = {
   base: '/daily-reading/',
   title: '每日阅读',
-  description: '桃李不言，下自成蹊！',
   head: [
     ['link', { rel: 'manifest', href: '/daily-reading/manifest.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],

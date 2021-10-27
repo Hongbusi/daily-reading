@@ -7,7 +7,7 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "push": "bash scripts/push.sh",
-    "gh-pages": "gh-pages -d docs/dist"
+    "gh-pages": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",

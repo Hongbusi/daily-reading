@@ -3,7 +3,7 @@ module.exports = {
   title: '每日阅读',
   head: [
     ['link', { rel: 'manifest', href: '/daily-reading/manifest.webmanifest' }],
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'theme-color', content: '#3eaf7c' }]
   ],
   bundler: '@vuepress/webpack',
   markdown: {
@@ -27,7 +27,7 @@ module.exports = {
     ['@vuepress/plugin-search', {
       locales: {
         '/': {
-          placeholder: '搜索',
+          placeholder: '搜索'
         }
       }
     }]
@@ -44,6 +44,7 @@ module.exports = {
     ],
     sidebar: [
       { text: '介绍', link: '/' },
+      { text: '2021 年 11 月', link: '/2021/11.md' },
       { text: '2021 年 10 月', link: '/2021/10.md' },
       { text: '2021 年 09 月', link: '/2021/09.md' },
       { text: '2021 年 08 月', link: '/2021/08.md' }

@@ -56,3 +56,5 @@ git pull
 - 每日时报：[https://wubaiqing.github.io/zaobao](https://wubaiqing.github.io/zaobao)
 
 - 政采云前端小报：[https://weekly.zoo.team](https://weekly.zoo.team)
+
+- MDH 前端周刊：[https://github.com/sorrycc/weekly](https://github.com/sorrycc/weekly)

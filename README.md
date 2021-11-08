@@ -53,4 +53,6 @@ git pull
 
 ## 友情链接
 
-每日时报：[https://wubaiqing.github.io/zaobao](https://wubaiqing.github.io/zaobao)
+- 每日时报：[https://wubaiqing.github.io/zaobao](https://wubaiqing.github.io/zaobao)
+
+- 政采云前端小报：[https://weekly.zoo.team](https://weekly.zoo.team)

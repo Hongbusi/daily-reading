@@ -51,7 +51,7 @@ $ yarn dev
 git pull
 ```
 
-## 友情链接
+## 其他阅读
 
 - 每日时报：[https://wubaiqing.github.io/zaobao](https://wubaiqing.github.io/zaobao)
 

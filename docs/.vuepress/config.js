@@ -44,6 +44,7 @@ module.exports = {
     ],
     sidebar: [
       { text: '介绍', link: '/' },
+      { text: '2022 年 02 月', link: '/2022/02.md' },
       { text: '2022 年 01 月', link: '/2022/01.md' },
       { text: '2021 年 12 月', link: '/2021/12.md' },
       { text: '2021 年 11 月', link: '/2021/11.md' },
